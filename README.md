@@ -72,7 +72,7 @@ if __name__ == "__main__":
     tela.show()
     sys.exit(app.exec_())
 ```
-#### Arquivo para listar os cursos: listar cursos.py
+#### Arquivo para listar os cursos: listar_cursos.py
 ``` python
 import sys
 from PyQt5.QtWidgets import QApplication, QWidget, QTableWidget, QTableWidgetItem, QVBoxLayout
